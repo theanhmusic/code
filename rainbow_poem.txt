@@ -3,5 +3,7 @@ The Rainbow
 1st Color
 2nd Color
 3rd Color
-...
+4th Color
+5th Color
+6th Color
 7th Color
