@@ -1,0 +1,7 @@
+The Rainbow
+
+1st Color
+2nd Color
+3rd Color
+...
+7th Color
